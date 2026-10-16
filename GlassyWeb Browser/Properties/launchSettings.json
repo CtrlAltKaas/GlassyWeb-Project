@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GlassyWeb Browser (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GlassyWeb Browser (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
